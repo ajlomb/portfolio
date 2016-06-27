@@ -1,0 +1,10 @@
+
+.div1 {
+	
+}
+#div1{
+	
+}
+div{
+	display: inline-block;
+}
